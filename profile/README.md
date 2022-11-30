@@ -1,12 +1,7 @@
-## Hi there 👋
+# Description of Digilab NLCR (https://digilab.nkp.cz/)
 
-<!--
+DigiLab is a recently founded platform within the National Library of the Czech Republic focused on bringing digital humanities closer to the broader academic community. This research area is fast-growing, and most scholars either lack data, datasets, or proper infrastructural support for their enquiry. Consequently, digital humanities and computational analysis miss the opportunities that already broad libraries digital repositories could offer.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Supported by
+Project is financed by Ministry of Culture of the Czech Republic under support of specific organization research support.
