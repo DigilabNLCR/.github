@@ -4,7 +4,7 @@ DigiLab is a recently founded platform within the National Library of the Czech 
 
 ## Specialisation of repository
 
-This repository specialises on outputs of Digital humanities research in National Librarz of the Czech Republic
+This repository specialises on outputs of Digital humanities research in National Library of the Czech Republic
 
 
 ## Supported by
